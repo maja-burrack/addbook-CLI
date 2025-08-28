@@ -1,0 +1,9 @@
+addbook.py
+obsidian_utils.py
+setup.py
+addbook.egg-info/PKG-INFO
+addbook.egg-info/SOURCES.txt
+addbook.egg-info/dependency_links.txt
+addbook.egg-info/entry_points.txt
+addbook.egg-info/requires.txt
+addbook.egg-info/top_level.txt
